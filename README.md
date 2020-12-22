@@ -1,4 +1,4 @@
-# Ad-BlockList Domains
+# Ad-BlockList-Test
 
 A work in progress blocklist for pi-hole/Adguard home
 
@@ -8,7 +8,7 @@ This blocklist with have domains that i notice that other blocklist might not bl
 
 *RAW LINK* https://raw.githubusercontent.com/Theice101/Ad-Block-Test/main/BlockList
 
-# Ad-BlockList-Youtube Domains
+# Ad-BlockList-Youtube
 
 I bunch of youtube videos that count as ads
 
