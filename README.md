@@ -1,3 +1,6 @@
+# Update
+No More update to this rep due to me not being interested. Archiving it.
+
 # Ad-BlockList-Test
 
 A work in progress blocklist for pi-hole/Adguard home
